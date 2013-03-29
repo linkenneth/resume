@@ -1,0 +1,75 @@
+                                            Kenneth Lin
+
+                                                                   
+Work Experience                                                          2437 Piedmont Ave., Berkeley, CA 94704
+                                                                         +1 (510) 999-2612
+                                                                   H
+                                 July 2012 â€“ August 2012
+                                                                         kenlin@berkeley.edu
+                                                                   B
+Software Intern at Baidu, Inc.                                           http://linkenneth.github.com
+                                                                   Ã
+Big Data
+ Designed and performed a custom Holt-Winters time-series
+                                                                  Education
+ analysis on page-view data. The model, accounting for ir-
+ regularities due to Chinese lunar holidays, was created using    2011 â€“ Present       Bachelor of Science
+ R and C                                                                               electrical engineering
+ Created scripts to partially automate the restructuring of all                          & computer science
+ of Baiduâ€™s logs into a new, more orderly format. Worked                               GPA â€“ 3.90, Technical GPA â€“ 3.92
+ with bash and MySQL                                                                   University of California - Berkeley
+                                     May 2012 â€“ July 2012
+Process Engineering Intern at Beijing Hyundai                            2007 â€“ 2011   IB Diploma
+Logistics / Electric Works                                                             GPA â€“ 4.08
+                                                                                       International School of Beijing
+ First-hand experience of harsh conditions and rapid pace of
+ factory work in China, and the resulting corporate culture
+ Witnessed setup and organization of a modern automobile          Awards
+ factory, as well as the optimizations taken and the impor-
+                                                                  2012     Best Hardware Hack
+ tance thereof
+                                                                           H@B-IEEE Hackathon
+ Learned fascinating details about technology and issues in
+ hybrid and electric cars
+                                                                  2010     Schoolwide Top Achiever
+Projects                                                                   American Mathematics Competition
+                                            November 2012
+                                                                  2009     Gold Standard
+RC Car Hacks at H@B-IEEE Hackathon
+                                                                           Fryer Mathematics Contest
+Best Hardware Hack
+ Two remote control (RC) cars were enhanced as this hard-
+                                                                  Technical Skills
+ ware hack
+ One used an electroencephalogram (EEG) to detect brain
+                                                                     Fluency      Python, Java, Linux/bash
+ waves and used variations in these brain wave signals to con-
+                                                                                                          a
+                                                                  Experienced     html, JavaScript, css, L TEX
+ trol the movement of the car
+                                                                                  web design, node.js (express.js), C
+ Another was mounted with a Wii controller and a ultrasonic
+                                                                                  Arduino, mips Assembly, Scheme
+ sensor to detect nearby â€™targetsâ€™, after which it would throw
+                                                                       Learning   R, Sage, Cython, OpenMP
+ out its scorpion-like tail to sting the target with camera ca-
+ pacitors
+ Awarded â€œBest Hardware Hackâ€                                     Languages
+                                              November 2012
+                                                                         english Â· chinese Â· french Â· japanese
+Hack at Chain Reaction Hackathon
+First Place*
+                                                                  Interests
+ Rube Goldberg machine that intertwined software with
+                                                                     self-improvement Â· motivation Â· ai Â·bci
+ hardware, chaining a myriad of otherwise completely unre-
+                                                                   social dynamics Â· learning Â· longboarding
+ lated components
+                                                                    learning japanese Â· piano Â· bodybuilding
+ APIs and languages such as Twilio, Facebook, Arduino,
+ Node.js, Android, JavaMail, PySerial
+                                                                  Organizations
+ *Awarded ï¬rst place, but we forfeited our place because we
+ started our project before the hackathon so that we could          national society of collegiate scholars
+ ï¬nish the project, which was more important for us than           hackers @ berkeley Â· oratory @ berkeley
+ winning a prize.                                                                 tau beta pi
